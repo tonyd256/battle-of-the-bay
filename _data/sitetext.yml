@@ -71,10 +71,9 @@ about:
     text: "Four regions of the Bay Area battling it out across their prized running routes. One short & one long segment. San Francisco, East Bay, North Bay, South Bay."
     section: about
 
-contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
+form:
+    title: "Submit a Time"
+    section: form
 
 footer:
     legal: "Privacy Policy"

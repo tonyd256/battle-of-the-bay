@@ -1,5 +1,5 @@
 // Styling for the contact section
-section#contact {
+section#form {
   background-color: $gray-900;
   background-image: url("#{$contact-image}");
   background-repeat: no-repeat;
@@ -10,10 +10,15 @@ section#contact {
   .form-group {
     margin-bottom: 25px;
     input,
-    textarea {
+    textarea,
+    select {
       padding: 20px;
     }
-    input.form-control {
+    select {
+      padding-top: 22px;
+      padding-bottom: 22px;
+    }
+    input.form-control, select.form-control {
       height: auto;
     }
     textarea.form-control {
