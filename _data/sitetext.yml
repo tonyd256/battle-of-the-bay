@@ -78,9 +78,7 @@ form:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://instagram.com
+      - url: https://instagram.com/poleary87
         icon: "fab fa-instagram"
 
 
