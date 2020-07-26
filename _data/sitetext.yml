@@ -5,8 +5,8 @@ header:
     buttonlink: "#routes"
 
 routes:
-    title: "Routes"
-    text: "Lorem ipsum"
+    title: "The Routes"
+    text: ""
     section: routes
     list:
       - title: "San Francisco (long): Crosstown Trail"

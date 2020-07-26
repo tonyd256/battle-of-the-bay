@@ -13,13 +13,13 @@
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "battleofthebay.run" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Battle of the Bay
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : hi@tonyd.io
 description: "A Bay Areas trail running competition to see who has the best athletes."
-author     : Your Name
+author     : Tony DiPasquale
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
