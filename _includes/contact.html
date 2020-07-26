@@ -39,13 +39,26 @@
               </div>
               <div class="col-md-6">
                 <div class="form-group">
-                  <input name="Time" class="form-control" id="time" type="text" placeholder="Your Time*" required="required" data-validation-required-message="Please enter your time.">
+                  <input name="Time" class="form-control" id="time" type="text" placeholder="Your Time (hours:minutes:seconds)*" required="required" data-validation-required-message="Please enter your time.">
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
             </div>
             <div class="row">
-              <div class="col-12">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <select name="Team" class="form-control" id="team" required="required" data-validation-required-message="Please select your team.">
+                    <option value="">Select your team</option>
+                    <option value="San Francisco">San Francisco</option>
+                    <option value="North Bay">North Bay</option>
+                    <option value="South Bay">South Bay</option>
+                    <option value="East Bay">East Bay</option>
+                    <option value="Out-of-towners">Out-of-towners</option>
+                  </select>
+                  <p class="help-block text-danger"></p>
+                </div>
+              </div>
+              <div class="col-md-6">
                 <div class="form-group">
                   <input name="Link" class="form-control" id="time" type="text" placeholder="Link to your activity">
                 </div>
