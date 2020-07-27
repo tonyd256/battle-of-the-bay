@@ -1,8 +1,8 @@
 header:
-    title: A competition to end all competitions!
-    text: Who's the most elite?
-    button: Check the routes
-    buttonlink: "#routes"
+    title: A challenge across the Bay Area’s most iconic trails
+    text: Battle of the Bay
+    button: Join In
+    buttonlink: "#about"
 
 routes:
     title: "The Routes"
@@ -10,65 +10,112 @@ routes:
     section: routes
     list:
       - title: "San Francisco (long): Crosstown Trail"
-        desc: "The Crosstown Trail is a 17-mile route connecting San Francisco neighborhoods, open spaces, and other major trails. It runs from Candlestick Point in the southeast corner of the city to Lands End in the northwest corner. With a great mixture of trails, stairs and city streets, this is a gem of a route on the Bay Area running scene. To find out exact route details, go to [https://crosstowntrail.org/](). When you do the route, make sure to give [@crosstowntrail](https://www.instagram.com/crosstowntrail/) a shoutout on Instagram."
-        image: https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
-        links:
-          - https://fastestknowntime.com/route/crosstown-trail-ca
-          - https://www.alltrails.com/trail/us/california/san-francisco-crosstown-trail
-          - https://www.strava.com/segments/22802987
+        desc: >
+          The Crosstown Trail is a 17-mile route connecting San Francisco neighborhoods, open spaces, and other major trails. It runs from Candlestick Point in the southeast corner of the city to Lands End in the northwest corner. With a great mixture of trails, stairs and city streets, this is a gem of a route on the Bay Area running scene. To find out exact route details, go to [https://crosstowntrail.org/](). And when you do the route, make sure to give [@crosstowntrail](https://www.instagram.com/crosstowntrail) a shoutout on Instagram.<br><br>
+
+          As it stands, the current record holders are Corrine Malcolm (2:04:43) and Matt Lenehan (1:46:06). Here’s more links about the trail: [FKT](https://fastestknowntime.com/route/crosstown-trail-ca), [All Trails](https://www.alltrails.com/trail/us/california/san-francisco-crosstown-trail), [Strava](https://www.strava.com/segments/22802987).<br><br>
+
+          **Start Location:** the start of the pier at Candlestick Point<br>
+          **Distance:** 16.5 miles<br>
+          **Elevation Gain:** 1900ft
+        images:
+          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
 
       - title: "San Francisco (short): Castro to Mount Sutro Summit"
-        desc: "Running from Rainbow Flag on Market Street to the top of the iconic Mount Sutro, this route mixes the relentless 17th road climb and the Historic Trail through the blissful wooded Mount Sutro Open Space Reserve. Be careful at the top though, the route’s not over until you reach the park bench."
-        image: https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
-        links:
-          - https://www.strava.com/segments/24898541
+        desc: >
+          Running from the Rainbow Flag on Market Street to the top of the iconic Mount Sutro, this route mixes the relentless 17th street climb and the Historic Trail singletrack through the blissful eucalyptus forest of Mount Sutro Open Space Reserve. Be careful at the top, the route’s not over until you reach the park bench. For good measure, pop over to Sutro Tower and Twin Peaks on your cooldown to see some great city panoramas.<br><br>
+
+          As it stands, Nick Magel (16:00) and the Laura Green (18:53) have the [Strava CRs](https://www.strava.com/segments/24898541).<br><br>
+
+          **Start Location:** Pink Triangle Park at the bottom of 17th Street<br>
+          **Distance:** 1.7 miles<br>
+          **Elevation Gain:** 700ft
+        images:
+          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
 
       - title: "North Bay (long): The Ninja Loop"
-        desc: "Running from Rainbow Flag on Market Street to the top of the iconic Mount Sutro, this route mixes the relentless 17th road climb and the Historic Trail through the blissful wooded Mount Sutro Open Space Reserve. Be careful at the top though, the route’s not over until you reach the park bench."
-        image: https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
-        links:
-          -  https://www.strava.com/segments/5463709
+        desc: >
+          This route's tradition goes back several years to when a few ultra-runners decided to sneak in a trail run into the early morning hours before working in the city (hence the Ninja). This route hits many of the best trails in southern Marin and as you move around, you’ll have spectacular views of the city, the ocean and Mount Tamalpais.<br><br>
+
+          As it stands, Devon Yanko (1:24:40) and Matt Leach (1:11:16) have the [Strava CRs](https://www.strava.com/segments/5463709).<br><br>
+
+          **Start Location:** Start at the (west) Parking Lot on the Marin side of the Golden Gate Bridge<br>
+          **Distance:** 11.5 miles<br>
+          **Elevation Gain:** 2100ft
+        images:
+          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
 
       - title: "North Bay (short): Mount Tam Hill Climb"
-        desc: "Running from Rainbow Flag on Market Street to the top of the iconic Mount Sutro, this route mixes the relentless 17th road climb and the Historic Trail through the blissful wooded Mount Sutro Open Space Reserve. Be careful at the top though, the route’s not over until you reach the park bench."
-        image: https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
-        links:
-          - https://www.strava.com/segments/2176386
-          - https://fastestknowntime.com/route/mt-tamalpais-ca
+        desc: >
+          The pride and joy of Marin mountain runners - The Mount Tam Hill Climb. The road, the rut, the switchbacks and the scramble all bring their own unique pain to this route. We would recommend checking this one off early in the morning. A sunrise over an Karl the Fog inversion is a sight to behold. And a quick tip for you. You may want to scope out the scramble. It has been the thorn of many a CR attempt.<br><br>
+
+          As it stands, Marin’s YiOu Wang (38:30) and out-of-towner Jim Walmsley (30:38) have the [Strava CRs](https://www.strava.com/segments/2176386) ([FKT boards](https://fastestknowntime.com/route/mt-tamalpais-ca)).<br><br>
+
+          **Start Location:** Start at the clock tower by the Mill Valley Depot. Don’t stop your watch til you touch the East Peak door.<br>
+          **Distance:** 3.3 miles<br>
+          **Elevation Gain:**  2500ft
+        images:
+          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
 
       - title: "East Bay (long): East Bay Skyline Trail"
-        desc: "Running from Rainbow Flag on Market Street to the top of the iconic Mount Sutro, this route mixes the relentless 17th road climb and the Historic Trail through the blissful wooded Mount Sutro Open Space Reserve. Be careful at the top though, the route’s not over until you reach the park bench."
-        image: https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
-        links:
-          - https://www.alltrails.com/trail/us/california/east-bay-skyline-national-trail
-          - https://fastestknowntime.com/route/east-bay-skyline-national-recreation-trail-ca
-          - https://www.strava.com/segments/19106526
+        desc: >
+          The longest of our routes and one of the most under-rated, yet iconic gems of Norther California. The East Bay Skyline National Trail traverses the ridge line above the coastal mountains situated to the east of Richmond, Berkeley and Oakland; and ends in Castro Valley. It goes entirely through the East Bay Regional Park system; Wildcat Canyon, Tilden, Sibley, Huckleberry, Redwood and the two Chabot parks. This is the eastern portion of the yet-to-be-completed Bay Area Ridge Trail. For added fun, why not take the BART public transport to the start and from the finish. It’ll just cost you an extra few street miles.<br><br>
+
+          As it stands, Devon Yanko and Lucy Andrews share the women’s CR (5:28:51) and Paddy O’Leary holds the fastest male time (4:18:08) ([Strava](https://www.strava.com/segments/19106526), [FKT boards](https://fastestknowntime.com/route/east-bay-skyline-national-recreation-trail-ca), [All Trails](https://www.alltrails.com/trail/us/california/east-bay-skyline-national-trail)).<br><br>
+
+          **Start Location:** The sign outside the Wildcat Canyon Staging Area (north to south), or Proctor Staging Area (south to north)<br>
+          **Distance:** 32 miles<br>
+          **Elevation Gain:** ~5500ft
+        images:
+          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
 
       - title: "East Bay (short): Diablo Hill Climb"
-        desc: "Running from Rainbow Flag on Market Street to the top of the iconic Mount Sutro, this route mixes the relentless 17th road climb and the Historic Trail through the blissful wooded Mount Sutro Open Space Reserve. Be careful at the top though, the route’s not over until you reach the park bench."
-        image: https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
-        links:
-          - https://www.alltrails.com/explore/trail/us/california/mitchell-creek-to-diablo-summit
-          - https://www.strava.com/segments/24874946
+        desc: >
+          Mount Diablo. A burly and beautiful beast of a mountain. This route takes you on the north side of Diablo on lovely sustained single track over Eagle Peak, Bald Ridge, Prospector’s Gap to the summit. After your CR attempt, coast down Juniper trail and Meridian Ridge fireroad for a 13 mile round trip, or if you’re feeling spicy, tag on North Peak and Olympia Peak for the 4 peaks of Diablo.<br><br>
 
-      - title: "South Bay (long): Skyline to the Sea Trail"
-        desc: ""
-        image: https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
-        links:
-          - https://www.alltrails.com/trail/us/california/skyline-to-the-sea-trail-saratoga-gap-route
-          - https://www.strava.com/segments/8163432
-          - https://fastestknowntime.com/route/skyline-sea-trail-ca
-      - title: "South Bay (short): Black Mountain Hill Climb"
-        desc: "Your description here, full **Markdown** support"
-        image: https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
-        links:
-          - https://www.strava.com/segments/2053989
-          - https://www.alltrails.com/explore/trail/us/california/black-mountain-via-rhus-ridge
+          As it stands, Devon Yanko (1:28:08) and Yuri Gonzaga (1:13:52) hold the CRs for the Eagle-Diablo hill climb ([Strava](https://www.strava.com/segments/24874946), [All Trails](https://www.alltrails.com/explore/trail/us/california/mitchell-creek-to-diablo-summit)).<br><br>
+
+          **Start Location:** The trailhead gate at Mitchell Canyon Staging Area<br>
+          **Distance:** 6.5 miles<br>
+          **Elevation Gain:** ~3600ft
+        images:
+          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+
+      - title: "South Bay/Peninsula (long): Skyline to the Sea Trail"
+        desc: >
+          The Skyline-to-the-Sea Trail is a 25-mile route in Big Basin Redwoods State Park, from the Waddell Creek TH to the Saratoga Gap TH. Meandering through redwood groves alongside burbling streams and lush undercover, this route is spectacular. It’s net downhill though, so hope your quads are ready. Of course we recommend a dip in the Pacific Ocean at the end. It’ll sort those quads right out.<br><br>
+
+          Previous records are tricky given the different races that have been held along the Skyline to the Sea Trail with subtle little loop additions. The Skyline to the Sea Marathon might be the closest guess ([All Trails](https://www.alltrails.com/trail/us/california/skyline-to-the-sea-trail-saratoga-gap-route), [Strava](https://www.strava.com/segments/8163432), [FKT boards](https://www.strava.com/segments/8163432)).<br><br>
+
+          **Start Location:** The Skyline-to-the-Sea Trail begins across the street from the Saratoga Gap Vista Point parking lot<br>
+          **Distance:** 26 miles<br>
+          **Elevation Gain:** ~2600ft
+        images:
+          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+
+      - title: "South Bay/Peninsula (short): Black Mountain Hill Climb"
+        desc: >
+          Some of the toughest climbs are the runnable ones. This route starts on slightly climbing single track through woods and chaparral, but for the final mile, it grinds you up the steepest section of fire road. You’ll enjoy weeping vistas of the South Bay and up the peninsula to San Francisco, if you’re still lucid.<br><br>
+
+          As it stands, Megan Roche (44:32) and Lucas Matison (39:18) hold the CRs for the Black Mountain hill climb via Rhus Ridge ([Strava](https://www.strava.com/segments/2053989), [All Trails](https://www.alltrails.com/explore/trail/us/california/black-mountain-via-rhus-ridge)).<br><br>
+
+          **Start Location:** At the TH parking lot on Rhus Ridge Road, by the Caretaker’s residence<br>
+          **Distance:** 4.6 miles<br>
+          **Elevation Gain:** ~2700ft
+        images:
+          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
 
 about:
     title: "What is this?"
-    surtext: "A battle of the bays."
-    text: "Four regions of the Bay Area battling it out across their prized running routes. One short & one long segment. San Francisco, East Bay, North Bay, South Bay."
+    text: >
+      In these challenging times of COVID-19, we’ve seen a lot of our goal races cancelled across the Bay Area and beyond. But with this lapse in travelling and a race schedule, we have an opportunity. Let’s get out to explore our own spectacular backyard and parts of the Bay Area we don’t usually explore. And hey, there’s no harm in making a little team competition out of it, right?<br><br>
+
+      So we present to you “The Battle of the Bay [FKT](https://fastestknowntime.com/) Challenge”. Over the next 4 months, the four regions of the Bay Area (and out-of-towners) will battle it out for the fastest times across several beautiful Bay Area running routes. Each region (San Francisco, East Bay, North Bay, South Bay/Peninsula) has one short (<10 miles) & one long segment (>10 miles).<br><br>
+
+      Come the end of November, we’ll have a couple of prizes from our supporters [GU Energy Labs](https://www.instagram.com/guenergylabs/) and [The North Face](https://www.instagram.com/thenorthface/):<br>
+        - **The Grand Slam:** any individual to complete all 8 routes throughout the competition<br>
+        - **The Best of the Bay:** the region that finishes with the highest number of the 16 FKTs (8 routes, male and female)<br>
+        - **The Goats:** we’ll have four prizes for the fastest female and male to complete all short or all long routes
     section: about
 
 form:
