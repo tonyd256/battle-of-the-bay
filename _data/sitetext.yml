@@ -113,6 +113,8 @@ routes:
         images:
           - https://ik.imagekit.io/rzerclsrcs/WhatsApp_Image_2020-07-26_at_9.14.10_PM_t1TnCgiG4.jpeg
           - https://ik.imagekit.io/rzerclsrcs/WhatsApp_Image_2020-07-26_at_9.14.48_PM_2HgFVf4IA.jpeg
+          - https://ik.imagekit.io/rzerclsrcs/WhatsApp_Image_2020-07-27_at_8.23.40_AM_9-NPwr3dsD.jpeg
+          - https://ik.imagekit.io/rzerclsrcs/WhatsApp_Image_2020-07-27_at_8.23.29_AM_O7ocjeceO.jpeg
 
 about:
     title: "What is this?"
