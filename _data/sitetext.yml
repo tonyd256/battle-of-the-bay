@@ -19,7 +19,9 @@ routes:
           **Distance:** 16.5 miles<br>
           **Elevation Gain:** 1900ft
         images:
-          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+          - https://ik.imagekit.io/rzerclsrcs/_DSC0895__M8sohQa8.jpg
+          - https://ik.imagekit.io/rzerclsrcs/_DSC1055_V2QMbFsZPw.jpg
+          - https://ik.imagekit.io/rzerclsrcs/_DSC6935_UNupV9jnB.jpg
 
       - title: "San Francisco (short): Castro to Mount Sutro Summit"
         desc: >
@@ -31,7 +33,7 @@ routes:
           **Distance:** 1.7 miles<br>
           **Elevation Gain:** 700ft
         images:
-          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+          - https://ik.imagekit.io/rzerclsrcs/_DSC9278-Pano_VEdu03j0p.jpg
 
       - title: "North Bay (long): The Ninja Loop"
         desc: >
@@ -43,7 +45,10 @@ routes:
           **Distance:** 11.5 miles<br>
           **Elevation Gain:** 2100ft
         images:
-          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+          - https://ik.imagekit.io/rzerclsrcs/_DSC3966_uVYf1WpOmQ.jpg
+          - https://ik.imagekit.io/rzerclsrcs/_DSC8251_uDoKt71UKw.jpg
+          - https://ik.imagekit.io/rzerclsrcs/_DSC8417_ULuD0d2_lq.jpg
+          - https://ik.imagekit.io/rzerclsrcs/_DSC5852_QqCL9uCQX.jpg
 
       - title: "North Bay (short): Mount Tam Hill Climb"
         desc: >
@@ -55,7 +60,9 @@ routes:
           **Distance:** 3.3 miles<br>
           **Elevation Gain:**  2500ft
         images:
-          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+          - https://ik.imagekit.io/rzerclsrcs/tam_sunrise_with_levi_squmj8Y9a.jpg
+          - https://ik.imagekit.io/rzerclsrcs/_DSC8006_IwX60ejrp.jpg
+          - https://ik.imagekit.io/rzerclsrcs/08.10_PaddyMtTam_0024_l6GTayKdI7.jpg
 
       - title: "East Bay (long): East Bay Skyline Trail"
         desc: >
@@ -67,7 +74,8 @@ routes:
           **Distance:** 32 miles<br>
           **Elevation Gain:** ~5500ft
         images:
-          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+          - https://ik.imagekit.io/rzerclsrcs/10.13_EastBaySkyline_5D_0012_jIjoda0e9.jpg
+          - https://ik.imagekit.io/rzerclsrcs/10.13_EastBaySkyline_Sony_0119_TaWPuBmTpo.jpg
 
       - title: "East Bay (short): Diablo Hill Climb"
         desc: >
@@ -79,7 +87,7 @@ routes:
           **Distance:** 6.5 miles<br>
           **Elevation Gain:** ~3600ft
         images:
-          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+          - https://ik.imagekit.io/rzerclsrcs/04.02_Paddy_MtDiablo_0061_ZRxEKTG_9.jpg
 
       - title: "South Bay/Peninsula (long): Skyline to the Sea Trail"
         desc: >
@@ -91,11 +99,11 @@ routes:
           **Distance:** 26 miles<br>
           **Elevation Gain:** ~2600ft
         images:
-          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+          - https://ik.imagekit.io/rzerclsrcs/WhatsApp_Image_2020-07-26_at_8.53.04_PM_zCP94Xs26.jpeg
 
       - title: "South Bay/Peninsula (short): Black Mountain Hill Climb"
         desc: >
-          Some of the toughest climbs are the runnable ones. This route starts on slightly climbing single track through woods and chaparral, but for the final mile, it grinds you up the steepest section of fire road. You’ll enjoy weeping vistas of the South Bay and up the peninsula to San Francisco, if you’re still lucid.<br><br>
+          Some of the toughest climbs are the runnable ones. This route starts on slightly climbing single track through woods and chaparral, but for the final mile, it grinds you up the steepest section of fire road. You’ll enjoy sweeping vistas of the South Bay and up the peninsula to San Francisco, if you’re still lucid.<br><br>
 
           As it stands, Megan Roche (44:32) and Lucas Matison (39:18) hold the CRs for the Black Mountain hill climb via Rhus Ridge ([Strava](https://www.strava.com/segments/2053989), [All Trails](https://www.alltrails.com/explore/trail/us/california/black-mountain-via-rhus-ridge)).<br><br>
 
@@ -103,7 +111,8 @@ routes:
           **Distance:** 4.6 miles<br>
           **Elevation Gain:** ~2700ft
         images:
-          - https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg
+          - https://ik.imagekit.io/rzerclsrcs/WhatsApp_Image_2020-07-26_at_9.14.10_PM_t1TnCgiG4.jpeg
+          - https://ik.imagekit.io/rzerclsrcs/WhatsApp_Image_2020-07-26_at_9.14.48_PM_2HgFVf4IA.jpeg
 
 about:
     title: "What is this?"
@@ -117,6 +126,16 @@ about:
         - **The Best of the Bay:** the region that finishes with the highest number of the 16 FKTs (8 routes, male and female)<br>
         - **The Goats:** we’ll have four prizes for the fastest female and male to complete all short or all long routes
     section: about
+    rules:
+      title: Rules & Guidelines
+      text: |
+        - You can attempt and submit as many segment times as you like. Get out there. Get after it.
+        - All attempts at the route need to be run in the 4 months between August 1st and November 30th.
+        - When you submit your first time, you sign up for your team (North Bay, South Bay/Peninsula, East Bay, San Francisco, out-of-towners). We’re not going to hound you about legalities on which team you join. If you live in SF, but your heart and friends are in Marin, by all means join the North Bay. Once you submit your first segment and claim your team, that’s your team for the competition.
+        - We prefer if you share a Strava link (or link from another appropriate app), but if you only use a Casio, put in your true time. We trust you. Please don’t betray that trust.
+        - Tell us about how your new routes are going. On your social media posts, use the hashtag #battleofthebayFKT on your favourite photos or stories from the route.
+        - Carry a mask/buff with you at all times. It’s common courtesy to pull your mask up as you encounter people on the trail. We’re all in this together. Let’s protect each other.
+        - Feel free to join our [Strava club](https://www.strava.com/clubs/713705) to follow and chat with other participants.
 
 form:
     title: "Submit a Time"

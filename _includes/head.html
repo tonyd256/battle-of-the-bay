@@ -19,6 +19,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏃🏽‍♀️</text></svg>">
 
+  {% include seo.html %}
+
   <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <!-- Bootstrap core CSS -->
@@ -34,7 +36,7 @@
   <!-- Custom styles for this theme -->
   <!--<link href="assets/css/agency.min.css" rel="stylesheet">-->
   <link href="assets/css/agency.css" rel="stylesheet">
-  
+
   <!-- Page container change top padding when nav shrinks -->
   {% if page.layout == "page" %}
   <style>
@@ -44,5 +46,5 @@
 	}
   </style>
   {% endif %}
-  
+
 </head>

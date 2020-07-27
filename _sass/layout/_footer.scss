@@ -38,6 +38,10 @@ ul.social-buttons {
       &:hover {
         background-color: $primary;
       }
+
+      img {
+        width: 75%;
+      }
     }
   }
 }

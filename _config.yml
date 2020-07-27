@@ -18,7 +18,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Battle of the Bay
 email      : hi@tonyd.io
-description: "A Bay Areas trail running competition to see who has the best athletes."
+description: "Trail runners across the Bay Area battle it out across the finest local trails to see which is the strongest region - North, West, East Bay or San Francisco."
+image      : https://ik.imagekit.io/rzerclsrcs/_DSC3553_QXeK2sd1d.jpg?tr=w-800
 author     : Tony DiPasquale
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
