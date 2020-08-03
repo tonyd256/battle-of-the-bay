@@ -22,6 +22,7 @@
                 sizes="(max-width: 450px) 90vw, 800w"
                 alt="{{ route.title }}"
                 class="img-fluid"
+                loading="lazy"
                 />
           {% else %}
             <div class="carousel slide" data-ride="carousel">
@@ -34,6 +35,7 @@
                         sizes="(max-width: 450px) 90vw, 800w"
                         alt="{{ route.title }}"
                         class="d-block w-100"
+                        loading="lazy"
                         />
                   </div>
                 {% endfor %}
