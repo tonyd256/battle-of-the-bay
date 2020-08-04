@@ -8,14 +8,6 @@ $(function() {
     success: function (res) {
       const results = res.data;
 
-      const uniqueAttempts = _.countBy(_.uniqWith(results, function (lhv, rhv) {
-        return lhv.id === rhv.id && lhv.route === rhv.route;
-      }), 'route');
-
-      $('#attempts tbody').html(Object.keys(uniqueAttempts).map( function (route) {
-        return "<tr><td>"+route+"</td><td>"+uniqueAttempts[route]+"</td></tr>";
-      }));
-
       const groupedRoutes = _.groupBy(results, 'route');
       const groupedRoutesGender = _.mapValues(groupedRoutes, function (v) {
         return _.groupBy(v, 'gender');
@@ -32,6 +24,20 @@ $(function() {
           return "<tr><td>"+aOpen+route+aClose+"</td><td>"+aOpen+_.upperFirst(gender)+aClose+"</td><td>"+aOpen+person.name+aClose+"</td><td>"+aOpen+person.team+aClose+"</td><td>"+aOpen+person.time+aClose+"</td></tr>";
         }).join();
       }));
+
+      const uniqueAttempts = _.countBy(_.uniqWith(results, function (lhv, rhv) {
+        return lhv.id === rhv.id && lhv.route === rhv.route;
+      }), 'team');
+
+      $('#attempts tbody').html(Object.keys(uniqueAttempts).map( function (team) {
+        const records = Object.keys(groupedRoutesGender).reduce( function (accum, route) {
+          return accum + Object.keys(groupedRoutesGender[route]).reduce( function (accum, gender) {
+            return accum + (_.sortBy(groupedRoutesGender[route][gender], 'time')[0].team === team ? 1 : 0);
+          }, 0);
+        }, 0);
+        return "<tr><td>"+team+"</td><td class=\"text-center\">"+uniqueAttempts[team]+"</td><td class=\"text-right\">"+records+"</td></tr>";
+      }));
+
     },
     error: function (req, status, e) {
       console.error(e);
