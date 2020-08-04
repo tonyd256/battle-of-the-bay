@@ -6,7 +6,6 @@ header:
 
 routes:
     title: "The Routes"
-    text: ""
     section: routes
     list:
       - title: "San Francisco (long): Crosstown Trail"
@@ -128,16 +127,18 @@ about:
         - **The Best of the Bay:** the region that finishes with the highest number of the 16 FKTs (8 routes, male and female) at the end of the competition period on Nov 30<br>
         - **The Goats:** we’ll have six prizes (male and female) for the fastest combined time for: 1) all four long routes, 2) all four short routes, 3) and all eight routes
     section: about
-    rules:
-      title: Rules & Guidelines
-      text: |
-        - You can attempt and submit as many segment times as you like. Get out there. Get after it.
-        - All attempts at the route need to be run in the 4 months between **August 1st** and **November 30th**.
-        - When you submit your first time, you sign up for your team (**North Bay, South Bay/Peninsula, East Bay, San Francisco**). We’re not going to hound you about legalities on which team you join. If you live in SF, but your heart and friends are in Marin, by all means join the North Bay. Once you submit your first segment and claim your team, that’s your team for the competition.
-        - We prefer if you share a Strava link (or link from another appropriate app), but if you only use a Casio, put in your true time. We trust you. Please don’t betray that trust.
-        - Tell us about how your new routes are going. On your social media posts, use the hashtag **#battleofthebayFKT** on your favourite photos or stories from the route.
-        - Carry a **mask/buff** with you at all times. It’s common courtesy to pull your mask up as you encounter people on the trail. We’re all in this together. Let’s protect each other.
-        - Feel free to join our [Strava club](https://www.strava.com/clubs/713705) to follow and chat with other participants.
+
+rules:
+    title: Rules & Guidelines
+    text: |
+      - You can attempt and submit as many segment times as you like. Get out there. Get after it.
+      - All attempts at the route need to be run in the 4 months between **August 1st** and **November 30th**.
+      - When you submit your first time, you sign up for your team (**North Bay, South Bay/Peninsula, East Bay, San Francisco**). We’re not going to hound you about legalities on which team you join. If you live in SF, but your heart and friends are in Marin, by all means join the North Bay. Once you submit your first segment and claim your team, that’s your team for the competition.
+      - We prefer if you share a Strava link (or link from another appropriate app), but if you only use a Casio, put in your true time. We trust you. Please don’t betray that trust.
+      - Tell us about how your new routes are going. On your social media posts, use the hashtag **#battleofthebayFKT** on your favourite photos or stories from the route.
+      - Carry a **mask/buff** with you at all times. It’s common courtesy to pull your mask up as you encounter people on the trail. We’re all in this together. Let’s protect each other.
+      - Feel free to join our [Strava club](https://www.strava.com/clubs/713705) to follow and chat with other participants.
+    section: rules
 
 form:
     title: "Submit a Time"

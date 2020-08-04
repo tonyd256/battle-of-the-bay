@@ -66,7 +66,18 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-12">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <select name="Gender" class="form-control" id="gender" required="required" data-validation-required-message="Please select a gender.">
+                    <option value="">Select a gender</option>
+                    <option value="female">Female</option>
+                    <option value="male">Male</option>
+                  </select>
+                  <p class="help-block text-light"><small>Used for awards. Please select which ever you'd like to be compeditive with.</small></p>
+                  <p class="help-block text-danger"></p>
+                </div>
+              </div>
+              <div class="col-md-6">
                 <div class="form-group">
                   <input name="Link" class="form-control" id="link" type="text" placeholder="Link to your activity">
                 </div>

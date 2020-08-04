@@ -2,6 +2,9 @@ nav:
   - title: "About"
     section: about
 
+  - title: "Rules"
+    section: rules
+
   - title: "The Routes"
     section: routes
 
