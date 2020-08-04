@@ -9,11 +9,12 @@ $(function() {
     },
     submitSuccess: function($form, event) {
       event.preventDefault(); // prevent default submit behaviour
+      $this = $("#submitFormButton");
+      $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
+
       grecaptcha.ready(function() {
         grecaptcha.execute('6LeKhrYZAAAAAEQYC7lAT4nnFKP1SMRetWWvR_Gb', {action: 'submit'}).then(function(token) {
           var url = "https://script.google.com/macros/s/AKfycbx3LUU2ujby8cfkc45GyrxHwYJUX2-Ol14Kjtk9NaygVFM57RPO/exec";
-          $this = $("#submitFormButton");
-          $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
           const data = new FormData($form[0]);
           data.append('token', token);
 
