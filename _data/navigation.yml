@@ -8,5 +8,8 @@ nav:
   - title: "The Routes"
     section: routes
 
+  - title: "Results"
+    section: results
+
   - title: "Submit a Time"
     section: form

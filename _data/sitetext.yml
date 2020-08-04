@@ -140,6 +140,10 @@ rules:
       - Feel free to join our [Strava club](https://www.strava.com/clubs/713705) to follow and chat with other participants.
     section: rules
 
+results:
+  title: "Results"
+  section: results
+
 form:
     title: "Submit a Time"
     section: form

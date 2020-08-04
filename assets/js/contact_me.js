@@ -18,6 +18,11 @@ $(function() {
           const data = new FormData($form[0]);
           data.append('token', token);
 
+          const time = data.get('Time');
+          if ((time.match(/:/g) || []).length === 1) {
+            data.set('Time', '00:'+time);
+          }
+
           $.ajax({
             url: url,
             type: "POST",
