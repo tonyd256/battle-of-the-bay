@@ -15,9 +15,9 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ml-auto">
 		{%- for link in site.data.navigation.nav -%}
-		  <li class="nav-item">
+		  <li class="{% if link.key == page.key %}nav-item active{% else %}nav-item{% endif %}">
 		  {%- if link.url -%}
-		    <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
+        <a class="nav-link js-scroll-trigger" href="{{ link.url }}">{{ link.title }}</a>
 		  {%- else if link.section -%}
 		    <a class="nav-link js-scroll-trigger" href="{{ site.baseurl }}/#{{ link.section }}">{{ link.title }}</a>
 		  {%- else -%}

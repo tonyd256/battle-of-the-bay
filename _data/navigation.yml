@@ -13,3 +13,7 @@ nav:
 
   - title: "Submit a Time"
     section: form
+
+  - title: "Hype"
+    url: "/hype"
+    key: hype
