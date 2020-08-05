@@ -1,6 +1,7 @@
 ---
 layout: page
 key: hype
+title: Hype
 ---
 
 <iframe src="https://www.youtube.com/embed/lanEYR7yoIo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
