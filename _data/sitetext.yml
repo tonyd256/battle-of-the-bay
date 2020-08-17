@@ -156,5 +156,24 @@ footer:
       - url: https://instagram.com/poleary87
         icon: "fab fa-instagram"
 
+hype:
+  - url: https://www.youtube.com/embed/lanEYR7yoIo
+    text:
+  - url: https://www.youtube.com/embed/9A-NlSjejdQ
+    text:
+  - url: https://www.youtube.com/embed/lvs2lOcdJMw
+    text:
+  - url: https://www.youtube.com/embed/65t6HHk-zec
+    text:
+  - url: https://www.youtube.com/embed/rlAhHZhkHQk
+    text:
+  - url: https://www.youtube.com/embed/GhzoCeMkeN4
+    text:
+  - url: https://www.youtube.com/embed/jy_W5qsjB5U
+    text:
+  - url: https://player.vimeo.com/video/406878212
+    text:
+  - url: https://player.vimeo.com/video/84477950?color=4094e3&byline=0&portrait=0
+    text:
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
