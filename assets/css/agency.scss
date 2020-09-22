@@ -32,3 +32,10 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/team.scss";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
+
+.donation-links {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}

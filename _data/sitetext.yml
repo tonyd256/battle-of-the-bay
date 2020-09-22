@@ -117,6 +117,14 @@ routes:
 
 about:
     title: "What is this?"
+    donationtitle: "Please Donate to Wildfire Relief"
+    donationtext: >
+      Wildfires have been ravaging our wildernesses and residences. Thousands have lost their homes and aren't sure how they'll come back. Please consider donating a set amount for every route you tackle. Here are two funds that are doing good things.
+    donationlinks:
+      - title: CA Fire Foundation
+        url: https://www.cafirefoundation.org/programs/supplying-aid-to-victims-of-emergency
+      - title: Undocu Fund
+        url: https://undocufund.org
     text: >
       In these challenging times of COVID-19, we’ve seen a lot of our goal races cancelled across the Bay Area and beyond. But with this lapse in travelling and a race schedule, we have an opportunity. Let’s get out to explore our own spectacular backyard and parts of the Bay Area we don’t usually run. And hey, there’s no harm in making a little team competition out of it, right?<br><br>
         
