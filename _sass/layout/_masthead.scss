@@ -62,7 +62,7 @@ header.masthead {
         height: 100%;
 
         .carousel-item {
-          &.active {
+          &.active, &.carousel-item-next {
             display: flex;
           }
 
