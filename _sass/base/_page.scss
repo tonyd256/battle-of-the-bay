@@ -13,6 +13,10 @@ a {
   &:hover {
     color: darken($primary, 10%);
   }
+
+  &.title {
+    color: $black;
+  }
 }
 
 .text-primary {

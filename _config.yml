@@ -16,6 +16,7 @@ theme: jekyll-agency
 url    : "https://battleofthebay.run" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 fb_id: 703350090268780
+permalink: '/routes/:slug'
 
 title      : Battle of the Bay
 email      : hi@tonyd.io
@@ -28,8 +29,5 @@ author     : Tony DiPasquale
 
 analytics:
   google: UA-173615191-1
-
-collections:
-  portfolio:
 
 markdown: kramdown

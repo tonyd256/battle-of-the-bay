@@ -9,9 +9,10 @@
       </div>
     </div>
 
-    {% for route in site.data.sitetext.routes.list %}
+    {% for route in site.posts %}
       <div class="row mt-5">
         <div class="col-md-4">
+          <a href="{{route.url}}">
           {% if route.images.length == 1 %}
             <img src="{{ route.image }}?tr=w-480,ar-3-2"
                 srcSet="{{ route.image }}?tr=w-480,ar-3-2 480w,
@@ -39,10 +40,11 @@
               </div>
             </div>
           {% endif %}
+          </a>
         </div>
         <div class="col-md-8 route-text">
-          <h3>{{ route.title }}</h3>
-          <p class="text-muted">{{ route.desc | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          <h3><a class="title" href="{{route.url}}">{{ route.title }}</a></h3>
+          <p class="text-muted">{{ route.content | markdownify }}</p>
         </div>
       </div>
     {% endfor %}

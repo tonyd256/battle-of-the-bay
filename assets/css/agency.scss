@@ -20,16 +20,11 @@ $contact-image: "{{ site.data.style.contact-image }}";
 // Components
 @import "components/buttons.scss";
 @import "components/navbar.scss";
-@import "components/client-scroll.scss";
 @import "components/embeds.scss";
 
 // Layout
 @import "layout/masthead.scss";
-@import "layout/services.scss";
 @import "layout/routes.scss";
-@import "layout/portfolio.scss";
-@import "layout/timeline.scss";
-@import "layout/team.scss";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
 
@@ -46,4 +41,15 @@ $contact-image: "{{ site.data.style.contact-image }}";
       margin-right: 0;
     }
   }
+}
+
+.post-body {
+  margin: 40px auto;
+  width: 1200px;
+  max-width: 95%;
+}
+
+.grandslam-container {
+  max-height: 660px;
+  overflow-y: scroll;
 }
