@@ -10,6 +10,17 @@ routes:
 
 about:
     title: "What is this?"
+    winnertitle: "We have our winners!!"
+    winnertext: >
+      And that's a wrap! Thanks to everyone who participated in our 2020 Battle of the Bay FKT Challenge! We loved seeing you all out there achieving new distances and new speeds. Congratulation to all and especially to those that conquored all of the routes. [Check out their stories.](/stories) Here are the final standings.
+    winnerimgs:
+      - "/assets/img/per-team-count.jpeg"
+      - "/assets/img/per-team-records.jpeg"
+      - "/assets/img/grand-slamers.jpeg"
+      - "/assets/img/womens-short.jpeg"
+      - "/assets/img/womens-long.jpeg"
+      - "/assets/img/mens-short.jpeg"
+      - "/assets/img/mens-long.jpeg"
     donationtitle: "Please Donate to Wildfire Relief"
     donationtext: >
       Wildfires have been ravaging our wilderness area and wild urban interface regions across Northern California and beyond. Thousands of people have been evacuated from or even lost their homes, and aren't sure when they'll be able to return. Even here in the Bay Area, our beloved Big Basin and our route, the Skyline to Sea, succumbed to one of the fires and it will take a long time for it to recover.<br><br>

@@ -53,3 +53,14 @@ $contact-image: "{{ site.data.style.contact-image }}";
   max-height: 660px;
   overflow-y: scroll;
 }
+
+.winner-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+  img {
+    width: 300px;
+    border: none;
+  }
+}

@@ -11,8 +11,9 @@ nav:
   - title: "Results"
     section: results
 
-  - title: "Submit a Time"
-    section: form
+  - title: "Stories"
+    url: "/stories"
+    key: stories
 
   - title: "Hype"
     url: "/hype"

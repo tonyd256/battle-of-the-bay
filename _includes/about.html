@@ -4,6 +4,23 @@
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase mb-5">
+          {{ site.data.sitetext.about.winnertitle | default: "And we have our winners!!" }}
+        </h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="large">{{ site.data.sitetext.about.winnertext | markdownify }}</div>
+        <div class="winner-images">
+          {% for img in site.data.sitetext.about.winnerimgs %}
+            <img class="img-thumbnail" src="{{ img }}">
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <div class="row mt-5">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase mb-5">
           {{ site.data.sitetext.about.donationtitle | default: "Please Donate" }}
         </h2>
       </div>
